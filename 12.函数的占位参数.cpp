@@ -1,8 +1,16 @@
-#include<iostream>
-using  namespace std;
-int main()
-{
-	cout << "你好" << endl;
-	system("pause");
-	return 0;
-}
+//#include<iostream>
+//using  namespace std;
+////占位参数
+////函数的参数列表中没有具体的接收变量，但却有数据类型，函数中可能用不到，但在调用的时候需要填写一个数
+////函数占用，现阶段用不着，以后会用的到                                                     
+//void func(int a, int)
+//{
+//	cout << "输出这个函数" << endl;
+//}
+//int main()
+//{
+//	//因为在定义函数的时候，参数列表第二位出现了一个整型的函数占用，所以在调用函数的时候需要填入一个整型数字
+//	func(10, 10);
+//	system("pause");
+//	return 0;
+//}                                           
